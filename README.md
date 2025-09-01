@@ -1,5 +1,3 @@
-# README.md
-
 # Food Search App
 
 Это мобильное приложение на React Native для поиска ресторанов через Yelp API.
